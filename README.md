@@ -1,9 +1,8 @@
-# Analisando dados do Stack Overflow Annual Developer Survey 2020. 
+# Analisando dados do Stack Overflow Annual Developer Survey 2020.
 
 **Este notebook foi criado exclusivamente para aprendizado e está sendo atualizado. Algumas questões respondidas aqui fazem parte do desafio do bootcamp em ciência de dados do IGTI. Qualquer erro ou sugestão é só mandar um alô :)**
 
 O dataset pode ser baixado em https://insights.stackoverflow.com/survey
-
 
 Inicialmente, vamos tentar responder as seguintes questões:
 
@@ -14,3 +13,5 @@ Inicialmente, vamos tentar responder as seguintes questões:
 5. Qual a média e a mediana de salários no Brasil?
 6. Com exceção dos Estados Unidos, qual é o país com maior número de desenvolvedores que nunca tiveram educação formal?
 7. Com que idade a maioria dos desenvolvedores brasileiros começa a programar?
+
+[Notebook aqui](https://github.com/warteruzannan/analysis-stack-overflow-survey/blob/master/desafio.ipynb)
