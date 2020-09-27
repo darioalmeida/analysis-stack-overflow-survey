@@ -13,4 +13,4 @@ Inicialmente, vamos tentar responder as seguintes questões:
 4. Considerando os desenvolvedores da Albânia, pode-se afirmar que o salário anual aumenta de acordo com a idade?
 5. Qual a média e a mediana de salários no Brasil?
 6. Com exceção dos Estados Unidos, qual é o país com maior número de desenvolvedores que nunca tiveram educação formal?
-7. Com que idade a maioria dos desenvolvedores brasileiro começa a programar?
+7. Com que idade a maioria dos desenvolvedores brasileiros começa a programar?
