@@ -7,10 +7,10 @@ O dataset pode ser baixado em https://insights.stackoverflow.com/survey
 
 Inicialmente, vamos tentar responder as seguintes questões:
 
-* 1. Considerando o nível de formação, qual a média salarial de desenvolvedores na França?
-* 2. Considerando a satistifação, qual a média salarial dos desenvolvedore no Chile?
-* 3. Qual o sistema operacional mais utilizado na França?
-* 4. Considerando os desenvolvedores da Albânia, pode-se afirmar que o salário anual aumenta de acordo com a idade?
-* 5. Qual a média e a mediana de salários no Brasil?
-* 6. Com exceção dos Estados Unidos, qual é o país com maior número de desenvolvedores que nunca tiveram educação formal?
-* 7. Com que idade a maioria das pessoas começa a programar no Brasil?
+1. Considerando o nível de formação, qual a média salarial de desenvolvedores na França?
+2. Considerando a satistifação, qual a média salarial dos desenvolvedore no Chile?
+3. Qual o sistema operacional mais utilizado na França?
+4. Considerando os desenvolvedores da Albânia, pode-se afirmar que o salário anual aumenta de acordo com a idade?
+5. Qual a média e a mediana de salários no Brasil?
+6. Com exceção dos Estados Unidos, qual é o país com maior número de desenvolvedores que nunca tiveram educação formal?
+7. Com que idade a maioria dos desenvolvedores brasileiro começa a programar?
